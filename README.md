@@ -1,2 +1,3 @@
 # MsBuildHelloWorld
-MSBuildHelloWorld for MSBuild Jenkins Plugin
+
+C# HelloWorld project built with MSBuild for testing purposes.
